@@ -1,6 +1,6 @@
 ## Job-Construction
 
-**Description:** A health-focused React app providing valuable resources and information, promoting well-being through a user-friendly interface and curated content for a healthier lifestyle.
+**Description:** Job Construction is a user-friendly React app built on the MERN stack, featuring a seamless online job marketplace experience. Leveraging Firebase for authentication, this platform connects employers and job seekers effortlessly, creating a dynamic environment for job opportunities and career growth.
 
 
 ### Key Features: 
